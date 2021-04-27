@@ -1,10 +1,10 @@
-package com.aldeamo.bar.apirest;
+package com.aldeamo.bartender.apirest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BarApirestApplicationTests {
+class BartenderApirestApplicationTests {
 
 	@Test
 	void contextLoads() {

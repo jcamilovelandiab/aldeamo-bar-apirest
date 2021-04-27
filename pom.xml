@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aldeamo</groupId>
-	<artifactId>bar-apirest</artifactId>
+	<artifactId>bartender-apirest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bar-apirest</name>
+	<name>bartender-apirest</name>
 	<description>Springboot project for Aldeamo&apos;s Interview</description>
 	<properties>
 		<java.version>11</java.version>

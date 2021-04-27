@@ -1,6 +1,6 @@
-package com.aldeamo.bar.apirest.controllers;
+package com.aldeamo.bartender.apirest.controllers;
 
-import com.aldeamo.bar.apirest.entities.Greeting;
+import com.aldeamo.bartender.apirest.entities.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

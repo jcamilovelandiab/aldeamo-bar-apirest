@@ -1,4 +1,4 @@
-package com.aldeamo.bar.apirest.entities;
+package com.aldeamo.bartender.apirest.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
